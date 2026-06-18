@@ -14,8 +14,12 @@ veri/vucut_yagi/fat_model.joblib
 # Kişisel kullanıcı verileri
 kullanici_verisi/
 
-# Claude Code yerel ayarları
+# Claude Code yerel ayarları ve proje kılavuzu
 .claude/
+CLAUDE.md
+
+# Tez dosyaları
+tez_dosyalari/
 
 # Python cache
 __pycache__/
