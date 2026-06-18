@@ -55,6 +55,18 @@ Standart web kamerasi kullanarak egzersiz formunu gercek zamanli analiz eden, vu
 git clone https://github.com/furkanak47/egzersiz-form-analizi.git
 cd egzersiz-form-analizi
 pip install -r requirements.txt
+```
+
+Bazi buyuk dosyalar zip olarak gelir, acin:
+
+```bash
+# Windows
+Expand-Archive ml\models\exercise_recognizer.zip -DestinationPath ml\models\
+Expand-Archive veri\beslenme\food_db.zip         -DestinationPath veri\beslenme\
+Expand-Archive veri\vucut_yagi\population_norms.zip -DestinationPath veri\vucut_yagi\
+```
+
+```bash
 python main.py
 ```
 
