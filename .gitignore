@@ -7,9 +7,8 @@ veri/kondisyon/ham_veri/
 veri/vucut_yagi/population_norms.csv
 veri/batch_log.txt
 
-# Eğitilmiş modeller (büyük .joblib dosyaları)
-ml/models/
-veri/vucut_yagi/fat_model.joblib
+# 141 MB — GitHub 100 MB limitini aşıyor
+ml/models/exercise_recognizer.joblib
 
 # Kişisel kullanıcı verileri
 kullanici_verisi/
