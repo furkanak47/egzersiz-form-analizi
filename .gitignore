@@ -7,7 +7,7 @@ veri/kondisyon/ham_veri/
 veri/vucut_yagi/population_norms.csv
 veri/batch_log.txt
 
-# 141 MB — GitHub 100 MB limitini aşıyor
+# Sıkıştırılmamış hali (141 MB) — zip halini kullan
 ml/models/exercise_recognizer.joblib
 
 # Kişisel kullanıcı verileri
