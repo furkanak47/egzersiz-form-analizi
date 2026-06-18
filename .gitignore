@@ -1,0 +1,38 @@
+# Büyük ham veri dosyaları
+veri/egzersiz_videolari/
+veri/beslenme/FoodData_Central_csv_2026-04-30/
+veri/beslenme/en.openfoodfacts.org.products.csv.gz
+veri/beslenme/food_db.csv
+veri/kondisyon/ham_veri/
+veri/vucut_yagi/population_norms.csv
+veri/batch_log.txt
+
+# Eğitilmiş modeller (büyük .joblib dosyaları)
+ml/models/
+veri/vucut_yagi/fat_model.joblib
+
+# Kişisel kullanıcı verileri
+kullanici_verisi/
+
+# Claude Code yerel ayarları
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

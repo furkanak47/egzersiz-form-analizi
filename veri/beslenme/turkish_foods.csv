@@ -1,0 +1,276 @@
+fdc_id,name,category,data_type,kcal,protein_g,carb_g,fat_g,fiber_g
+9000001,Mercimek corbasi,Corbalar,turkish_food,55,3.5,8.5,1.0,2.0
+9000002,Ezogelin corbasi,Corbalar,turkish_food,60,3.2,9.8,1.0,1.8
+9000003,Tarhana corbasi,Corbalar,turkish_food,52,2.8,8.0,1.2,0.8
+9000004,Domates corbasi,Corbalar,turkish_food,45,1.5,7.0,1.2,0.8
+9000005,Yayla corbasi,Corbalar,turkish_food,65,3.5,7.5,2.5,0.2
+9000006,Sehriye corbasi,Corbalar,turkish_food,68,2.5,11.0,1.5,0.3
+9000007,Iskembe corbasi,Corbalar,turkish_food,78,6.0,4.5,4.0,0.0
+9000008,Dugun corbasi,Corbalar,turkish_food,85,5.5,6.0,4.0,0.2
+9000009,Paca corbasi,Corbalar,turkish_food,92,7.0,3.0,5.5,0.0
+9000010,Sebze corbasi,Corbalar,turkish_food,42,1.8,6.5,1.0,1.5
+9000011,Patates corbasi,Corbalar,turkish_food,58,1.5,9.5,1.5,0.8
+9000012,Kremalı mantar corbasi,Corbalar,turkish_food,75,2.0,8.0,3.5,0.5
+9000013,Bezelye corbasi,Corbalar,turkish_food,72,4.5,10.5,1.5,3.5
+9000014,Tutmac corbasi,Corbalar,turkish_food,80,4.5,10.5,2.5,1.5
+9000015,Kirmizi mercimek corbasi,Corbalar,turkish_food,58,3.8,9.0,1.0,2.2
+9000016,Taze fasulye corbasi,Corbalar,turkish_food,48,2.5,7.5,1.0,2.0
+9000017,Ispanak corbasi,Corbalar,turkish_food,55,2.8,6.0,2.5,1.8
+9000018,Pirinc pilavi (sade),Pilavlar,turkish_food,130,2.5,26.0,2.0,0.3
+9000019,Bulgur pilavi,Pilavlar,turkish_food,120,3.5,22.5,2.0,3.5
+9000020,Nohutlu pilav,Pilavlar,turkish_food,140,4.5,25.0,2.5,2.0
+9000021,Sehriyeli pilav,Pilavlar,turkish_food,135,3.0,26.5,2.2,0.4
+9000022,Domatesli bulgur pilavi,Pilavlar,turkish_food,118,3.0,21.0,2.5,3.0
+9000023,Ic pilav (curuklu),Pilavlar,turkish_food,185,4.0,24.0,8.0,1.5
+9000024,Tavuklu pilav,Pilavlar,turkish_food,155,8.5,22.0,3.5,0.5
+9000025,Pidesiz doner pilav,Pilavlar,turkish_food,180,9.5,22.5,5.5,0.5
+9000026,Mercimekli bulgur pilavi,Pilavlar,turkish_food,128,5.5,22.0,2.0,4.5
+9000027,Kavurma pilav,Pilavlar,turkish_food,175,10.0,21.0,5.5,0.5
+9000028,"Makarna (haslama, sade)",Makarna,turkish_food,155,5.5,30.5,1.0,1.5
+9000029,Makarna (kiymali sos),Makarna,turkish_food,175,9.5,22.5,5.5,1.8
+9000030,Makarna (domates soslu),Makarna,turkish_food,150,5.0,27.5,2.5,2.0
+9000031,Makarna (beyaz soslu),Makarna,turkish_food,190,6.5,24.5,8.0,0.8
+9000032,"Manti (pismis, yogurtlu)",Makarna,turkish_food,195,9.0,25.5,6.5,1.0
+9000033,"Manti (pismis, sade)",Makarna,turkish_food,155,6.5,25.5,3.0,1.0
+9000034,Eriste (ev yapimi),Makarna,turkish_food,165,5.5,30.0,2.5,2.0
+9000035,Kofte (izgara),Et Yemekleri,turkish_food,230,18.0,5.0,15.0,0.3
+9000036,"Kofte (pismis, ortalama)",Et Yemekleri,turkish_food,220,17.0,6.0,14.0,0.5
+9000037,Izmir koftesi,Et Yemekleri,turkish_food,195,14.0,8.5,11.5,1.0
+9000038,Et sote,Et Yemekleri,turkish_food,185,16.0,4.0,11.0,1.2
+9000039,Kuzu guvec,Et Yemekleri,turkish_food,195,15.0,8.0,11.0,2.0
+9000040,Dana kavurma,Et Yemekleri,turkish_food,220,18.0,2.0,15.0,0.5
+9000041,Tas kebabi,Et Yemekleri,turkish_food,170,14.0,7.0,9.5,1.5
+9000042,Et haslama,Et Yemekleri,turkish_food,165,16.5,1.0,10.0,0.0
+9000043,Kuzu pirzola (pismis),Et Yemekleri,turkish_food,260,20.0,0.0,20.0,0.0
+9000044,Dana biftek (pismis),Et Yemekleri,turkish_food,245,26.0,0.0,15.0,0.0
+9000045,Adana kebabi,Et Yemekleri,turkish_food,265,19.0,3.0,20.0,0.5
+9000046,Urfa kebabi,Et Yemekleri,turkish_food,250,18.0,3.5,18.5,0.5
+9000047,Sis kebabi (kuzu),Et Yemekleri,turkish_food,220,19.0,2.0,15.0,0.3
+9000048,Doner kebabi (dana/kuzulu),Et Yemekleri,turkish_food,235,18.0,4.0,16.0,0.2
+9000049,Iskender kebabi,Et Yemekleri,turkish_food,220,14.0,15.0,12.0,0.8
+9000050,Hunkar begendi,Et Yemekleri,turkish_food,185,12.0,10.0,11.0,2.5
+9000051,Karniyarik (etli),Et Yemekleri,turkish_food,155,9.0,10.5,9.0,3.0
+9000052,Dana haslama,Et Yemekleri,turkish_food,180,22.0,0.5,10.0,0.0
+9000053,Kuzu haslama,Et Yemekleri,turkish_food,195,19.5,0.5,13.0,0.0
+9000054,Beyin tava,Et Yemekleri,turkish_food,165,10.5,5.0,12.0,0.0
+9000055,Ciger tava (kuzu),Et Yemekleri,turkish_food,195,22.0,5.0,10.0,0.0
+9000056,Etli yaprak sarma,Et Yemekleri,turkish_food,160,8.5,15.5,7.5,1.5
+9000057,Etli biber dolmasi,Et Yemekleri,turkish_food,135,7.5,12.0,6.0,2.0
+9000058,Etli lahana dolmasi,Et Yemekleri,turkish_food,140,8.0,12.5,6.5,2.5
+9000059,Patlican musakka,Et Yemekleri,turkish_food,140,8.5,9.0,8.0,2.5
+9000060,Firinda kofte,Et Yemekleri,turkish_food,210,16.5,6.5,13.0,0.8
+9000061,Tekirdag koftesi,Et Yemekleri,turkish_food,245,19.0,5.5,16.5,0.3
+9000062,Kiyma (sotelenmiş),Et Yemekleri,turkish_food,200,17.0,2.5,14.0,0.0
+9000063,Doner kebabi (tavuklu),Tavuk Yemekleri,turkish_food,185,17.0,3.5,11.5,0.2
+9000064,Tavuk kavurma,Tavuk Yemekleri,turkish_food,195,20.0,2.5,11.5,0.5
+9000065,Tavuk sote,Tavuk Yemekleri,turkish_food,165,19.5,3.5,8.0,0.8
+9000066,Firin tavuk,Tavuk Yemekleri,turkish_food,175,22.0,1.5,9.0,0.0
+9000067,Tavuk haslama,Tavuk Yemekleri,turkish_food,155,23.0,0.5,6.5,0.0
+9000068,Tavuk sis,Tavuk Yemekleri,turkish_food,175,20.5,2.0,9.5,0.3
+9000069,Tavuk guvec,Tavuk Yemekleri,turkish_food,160,18.0,6.5,7.0,1.5
+9000070,Kizarmis tavuk,Tavuk Yemekleri,turkish_food,265,20.0,8.0,17.0,0.3
+9000071,Tavuk baget (pismis),Tavuk Yemekleri,turkish_food,185,21.5,0.0,11.0,0.0
+9000072,Tavuk gogus (haslama),Tavuk Yemekleri,turkish_food,125,26.0,0.5,2.0,0.0
+9000073,Tavuk gogus (firin),Tavuk Yemekleri,turkish_food,155,24.5,1.5,5.5,0.0
+9000074,Tavuk kanat (pismis),Tavuk Yemekleri,turkish_food,220,19.0,0.5,16.0,0.0
+9000075,Circir tavuk (sis),Tavuk Yemekleri,turkish_food,180,20.0,3.0,10.0,0.5
+9000076,Izgara levrek,Balik,turkish_food,140,22.5,0.0,5.5,0.0
+9000077,Izgara cupra,Balik,turkish_food,155,21.0,0.0,8.0,0.0
+9000078,Izgara hamsi,Balik,turkish_food,175,19.5,0.0,11.0,0.0
+9000079,Hamsi tava,Balik,turkish_food,210,18.5,5.5,12.5,0.5
+9000080,Izgara palamut,Balik,turkish_food,185,21.0,0.0,11.5,0.0
+9000081,Izgara uskumru,Balik,turkish_food,195,19.5,0.5,12.5,0.0
+9000082,Kilic sis,Balik,turkish_food,180,22.0,1.0,9.5,0.0
+9000083,Midye dolma (pismis),Balik,turkish_food,190,10.0,22.5,6.0,1.5
+9000084,Karides sote,Balik,turkish_food,120,18.5,2.5,4.0,0.0
+9000085,"Balik (haslama, genel)",Balik,turkish_food,130,21.0,0.0,5.0,0.0
+9000086,"Ton baligi (konserve, su)",Balik,turkish_food,110,25.0,0.0,1.0,0.0
+9000087,"Ton baligi (konserve, yag)",Balik,turkish_food,185,22.0,0.0,11.0,0.0
+9000088,Sardalye (konserve),Balik,turkish_food,210,22.5,0.0,13.0,0.0
+9000089,Kuru fasulye yemegi (pismis),Sebze Yemekleri,turkish_food,110,7.5,17.0,0.8,6.5
+9000090,Mercimek yemegi (pismis),Sebze Yemekleri,turkish_food,105,7.0,16.5,0.5,5.5
+9000091,Nohut yemegi (pismis),Sebze Yemekleri,turkish_food,120,7.0,18.5,1.5,6.0
+9000092,Barbunya pilaki,Sebze Yemekleri,turkish_food,115,6.5,16.0,2.5,5.0
+9000093,Zeytinyagli fasulye,Sebze Yemekleri,turkish_food,95,3.5,10.5,4.0,3.5
+9000094,Zeytinyagli enginar,Sebze Yemekleri,turkish_food,85,2.0,8.0,4.5,4.0
+9000095,Zeytinyagli kereviz,Sebze Yemekleri,turkish_food,78,1.5,9.5,3.5,2.5
+9000096,Zeytinyagli biber dolmasi,Sebze Yemekleri,turkish_food,95,2.0,12.5,4.0,2.0
+9000097,Imam bayildi,Sebze Yemekleri,turkish_food,120,1.8,9.0,8.5,3.0
+9000098,Turlu (sebze guvec),Sebze Yemekleri,turkish_food,85,2.5,11.5,3.5,3.0
+9000099,Taze fasulye yemegi (pismis),Sebze Yemekleri,turkish_food,65,2.0,9.5,1.5,3.5
+9000100,Ispanak yemegi,Sebze Yemekleri,turkish_food,75,3.5,5.5,4.0,2.5
+9000101,Kapuska (lahana yemegi),Sebze Yemekleri,turkish_food,70,3.0,8.0,2.5,3.0
+9000102,Semizotu yemegi,Sebze Yemekleri,turkish_food,60,2.0,5.5,3.0,1.8
+9000103,Patlican yemegi (zeytinyagli),Sebze Yemekleri,turkish_food,105,1.5,8.5,7.0,3.5
+9000104,Kabak yemegi,Sebze Yemekleri,turkish_food,70,2.5,9.5,2.5,2.0
+9000105,Bamya yemegi,Sebze Yemekleri,turkish_food,80,3.0,10.0,2.5,3.5
+9000106,Pirasa yemegi,Sebze Yemekleri,turkish_food,85,2.5,11.0,3.0,2.5
+9000107,Havuc yemegi,Sebze Yemekleri,turkish_food,90,1.8,14.5,2.5,3.0
+9000108,Patates yemegi (sulu),Sebze Yemekleri,turkish_food,90,2.5,15.0,2.5,2.0
+9000109,Patates kizartmasi,Sebze Yemekleri,turkish_food,312,3.5,41.0,15.0,3.5
+9000110,Haslanmis patates,Sebze Yemekleri,turkish_food,78,2.0,17.0,0.2,1.8
+9000111,Firin patates,Sebze Yemekleri,turkish_food,88,2.2,18.5,0.5,2.0
+9000112,Piyaz,Sebze Yemekleri,turkish_food,130,5.5,16.0,4.5,5.0
+9000113,Zeytinyagli pirasa,Sebze Yemekleri,turkish_food,78,1.5,10.0,3.5,2.5
+9000114,Muhlama (misir unlu),Sebze Yemekleri,turkish_food,290,8.5,20.0,19.5,0.5
+9000115,Mısır (haslama),Sebze Yemekleri,turkish_food,86,3.2,19.0,1.2,2.0
+9000116,Su boregi (peynirli),Borek ve Hamur Isleri,turkish_food,240,9.0,25.0,11.5,0.8
+9000117,Kol boregi (peynirli),Borek ve Hamur Isleri,turkish_food,310,10.0,30.0,16.0,1.0
+9000118,Sigara boregi (peynirli),Borek ve Hamur Isleri,turkish_food,290,9.5,28.0,15.0,0.8
+9000119,Gozleme (peynirli),Borek ve Hamur Isleri,turkish_food,265,9.5,32.0,11.0,1.2
+9000120,Gozleme (kiymali),Borek ve Hamur Isleri,turkish_food,278,11.5,31.0,12.0,1.0
+9000121,Gozleme (patatesli),Borek ve Hamur Isleri,turkish_food,240,6.5,35.0,8.5,2.0
+9000122,Gozleme (ispanakli),Borek ve Hamur Isleri,turkish_food,230,8.5,30.0,10.5,2.5
+9000123,Pogaca (sade),Borek ve Hamur Isleri,turkish_food,320,8.0,42.0,13.0,1.5
+9000124,Pogaca (peynirli),Borek ve Hamur Isleri,turkish_food,330,10.0,40.0,14.0,1.2
+9000125,Acma,Borek ve Hamur Isleri,turkish_food,290,7.5,42.0,10.0,1.5
+9000126,Simit,Borek ve Hamur Isleri,turkish_food,280,8.5,53.0,3.5,2.5
+9000127,Pide (sade),Borek ve Hamur Isleri,turkish_food,250,8.0,47.0,2.5,2.0
+9000128,Pide (kasarli),Borek ve Hamur Isleri,turkish_food,290,13.5,38.0,9.5,1.5
+9000129,Pide (sucuklu),Borek ve Hamur Isleri,turkish_food,320,14.0,38.5,12.5,1.5
+9000130,Pide (kiymali),Borek ve Hamur Isleri,turkish_food,260,11.5,32.0,9.5,1.5
+9000131,Lahmacun,Borek ve Hamur Isleri,turkish_food,275,12.0,35.0,9.0,1.5
+9000132,Borek (ispanakli),Borek ve Hamur Isleri,turkish_food,230,7.5,26.0,11.0,2.0
+9000133,Borek (patatesli),Borek ve Hamur Isleri,turkish_food,215,5.5,29.5,9.0,2.0
+9000134,Cig borek,Borek ve Hamur Isleri,turkish_food,295,12.5,31.0,13.5,1.5
+9000135,Katmer (sade),Borek ve Hamur Isleri,turkish_food,340,7.5,50.0,13.0,1.5
+9000136,Bazlama,Borek ve Hamur Isleri,turkish_food,260,8.0,50.0,3.0,2.0
+9000137,Beyaz ekmek,Ekmekler,turkish_food,265,9.0,52.0,2.5,2.5
+9000138,Kepekli ekmek,Ekmekler,turkish_food,245,9.5,48.0,2.5,6.5
+9000139,Tam bugday ekmegi,Ekmekler,turkish_food,252,10.5,48.5,2.8,7.5
+9000140,Cavdar ekmegi,Ekmekler,turkish_food,258,8.5,50.0,2.5,6.0
+9000141,Lavas,Ekmekler,turkish_food,270,8.5,53.0,2.5,2.5
+9000142,Yufka,Ekmekler,turkish_food,360,10.0,72.0,3.5,2.5
+9000143,Mısır ekmegi,Ekmekler,turkish_food,250,6.5,50.0,3.5,3.5
+9000144,Somun ekmegi,Ekmekler,turkish_food,268,9.0,52.5,2.5,2.5
+9000145,"Pide (sade, tandır)",Ekmekler,turkish_food,255,8.5,49.5,2.8,2.0
+9000146,Beyaz peynir (olgun),Kahvalti,turkish_food,245,16.0,2.5,19.0,0.0
+9000147,Beyaz peynir (taze),Kahvalti,turkish_food,200,14.5,2.0,15.5,0.0
+9000148,Kasar peyniri,Kahvalti,turkish_food,380,25.0,1.0,31.0,0.0
+9000149,Lor peyniri,Kahvalti,turkish_food,95,10.5,3.5,4.5,0.0
+9000150,Cokelek,Kahvalti,turkish_food,70,12.0,2.0,1.5,0.0
+9000151,Tulum peyniri,Kahvalti,turkish_food,285,20.0,2.5,22.0,0.0
+9000152,Cerkez peyniri,Kahvalti,turkish_food,320,22.0,2.0,25.0,0.0
+9000153,Dil peyniri,Kahvalti,turkish_food,260,20.0,1.5,20.0,0.0
+9000154,Sucuk,Kahvalti,turkish_food,450,22.0,2.0,38.5,0.0
+9000155,Pastirma,Kahvalti,turkish_food,295,30.5,1.5,18.5,0.0
+9000156,Salam (Turk),Kahvalti,turkish_food,285,14.0,3.5,24.0,0.0
+9000157,Sosis,Kahvalti,turkish_food,305,13.5,4.5,26.5,0.0
+9000158,"Zeytin (siyah, salamura)",Kahvalti,turkish_food,115,0.8,6.0,10.5,3.2
+9000159,"Zeytin (yesil, salamura)",Kahvalti,turkish_food,125,0.8,3.5,12.0,2.8
+9000160,Tereyagi,Kahvalti,turkish_food,735,0.5,0.5,82.0,0.0
+9000161,Bal,Kahvalti,turkish_food,305,0.3,82.0,0.0,0.2
+9000162,Pekmez (uzum),Kahvalti,turkish_food,280,2.5,70.0,0.2,0.5
+9000163,Pekmez (dut),Kahvalti,turkish_food,265,2.0,67.5,0.2,0.5
+9000164,Tahin,Kahvalti,turkish_food,595,17.0,21.5,53.0,9.5
+9000165,Tahin pekmez (karisik),Kahvalti,turkish_food,440,9.5,52.0,22.0,4.5
+9000166,Recal (genel),Kahvalti,turkish_food,255,0.5,65.0,0.1,1.0
+9000167,Findik ezmesi (tuzsuz),Kahvalti,turkish_food,628,15.0,17.0,59.0,9.5
+9000168,Yumurta (haslama),Kahvalti,turkish_food,155,13.0,1.1,11.0,0.0
+9000169,"Yumurta (sahanda, tereyagi)",Kahvalti,turkish_food,170,12.0,0.5,13.5,0.0
+9000170,Menemen,Kahvalti,turkish_food,130,7.5,6.0,8.5,1.5
+9000171,Omlet (sade),Kahvalti,turkish_food,160,11.5,1.0,12.5,0.0
+9000172,Sucuklu yumurta,Kahvalti,turkish_food,285,17.5,1.5,23.5,0.0
+9000173,Kavurma (kahvalti icin),Kahvalti,turkish_food,310,20.5,2.0,25.0,0.0
+9000174,Cacik,Mezeler,turkish_food,55,2.5,4.5,3.0,0.3
+9000175,Haydari,Mezeler,turkish_food,130,5.5,4.5,10.5,0.2
+9000176,Humus,Mezeler,turkish_food,165,8.5,18.0,7.0,5.0
+9000177,Patlican salatas (kozlenm.),Mezeler,turkish_food,95,1.5,8.0,6.0,3.0
+9000178,Mercimek koftesi,Mezeler,turkish_food,180,7.5,28.0,4.5,5.0
+9000179,Kisir,Mezeler,turkish_food,145,4.0,22.5,4.5,4.5
+9000180,Tabule,Mezeler,turkish_food,120,2.5,16.0,5.5,3.0
+9000181,Coban salatasi,Mezeler,turkish_food,45,1.5,7.5,1.5,2.0
+9000182,Mevsim salatasi (zeytinyagli),Mezeler,turkish_food,75,1.5,6.0,5.0,2.0
+9000183,Roka salatasi,Mezeler,turkish_food,65,2.0,5.5,4.0,1.5
+9000184,Tarator (cevizli),Mezeler,turkish_food,185,4.5,8.5,15.5,1.5
+9000185,Zeytinyagli yaprak sarma,Mezeler,turkish_food,125,2.5,18.5,5.0,2.0
+9000186,Atom (acili ezme),Mezeler,turkish_food,55,1.5,8.5,2.0,2.5
+9000187,Acili ezme,Mezeler,turkish_food,48,1.5,8.0,1.5,2.5
+9000188,Muhammara (cevizli biber),Mezeler,turkish_food,245,6.5,18.0,17.5,3.5
+9000189,Patates salatasi,Mezeler,turkish_food,120,2.5,16.0,5.0,1.8
+9000190,Beyin salatasi,Mezeler,turkish_food,140,9.5,2.5,10.5,0.5
+9000191,Deniz borulcesi (zeytinyagli),Mezeler,turkish_food,60,1.8,6.0,3.5,2.0
+9000192,Baklava (fistikli),Tatlilar,turkish_food,430,6.5,52.0,22.0,1.5
+9000193,Baklava (cevizli),Tatlilar,turkish_food,415,6.0,52.5,21.0,2.0
+9000194,Kadayif (firinda),Tatlilar,turkish_food,380,7.0,55.0,15.0,2.0
+9000195,Sutlac,Tatlilar,turkish_food,130,3.5,23.5,3.0,0.2
+9000196,Muhallebi,Tatlilar,turkish_food,120,3.0,22.0,2.5,0.0
+9000197,Kazandibi,Tatlilar,turkish_food,165,4.5,27.5,5.0,0.0
+9000198,Firın sutlac,Tatlilar,turkish_food,140,4.0,24.0,3.5,0.2
+9000199,Helva (tahin),Tatlilar,turkish_food,495,11.0,55.0,27.0,3.5
+9000200,Helva (irmik),Tatlilar,turkish_food,350,5.0,52.0,14.0,1.5
+9000201,Revani,Tatlilar,turkish_food,340,5.5,56.0,11.0,1.0
+9000202,Sekerpare,Tatlilar,turkish_food,360,5.0,58.0,13.0,0.8
+9000203,Tulumba tatlisi,Tatlilar,turkish_food,385,4.5,60.0,15.0,0.5
+9000204,Lokma,Tatlilar,turkish_food,370,5.0,60.0,13.5,0.8
+9000205,Asure,Tatlilar,turkish_food,155,4.0,32.0,2.0,3.0
+9000206,Gullac,Tatlilar,turkish_food,145,4.5,28.0,2.5,0.5
+9000207,Lokum,Tatlilar,turkish_food,345,0.5,84.5,0.5,0.3
+9000208,Cevizli sucuk (Antep),Tatlilar,turkish_food,365,8.0,65.0,9.5,3.0
+9000209,Dondurma (fistikli),Tatlilar,turkish_food,215,4.5,28.5,10.0,0.8
+9000210,Komposto (kayisi),Tatlilar,turkish_food,62,0.5,16.5,0.1,1.2
+9000211,Hoşaf (kuru meyve),Tatlilar,turkish_food,85,0.8,22.0,0.1,1.5
+9000212,Asure (geleneksel),Tatlilar,turkish_food,160,4.5,33.0,2.5,3.5
+9000213,Kabak tatlisi,Tatlilar,turkish_food,145,0.8,36.5,0.5,2.0
+9000214,Incir tatlisi,Tatlilar,turkish_food,195,2.5,40.0,4.0,3.5
+9000215,Yogurt (tam yagliı),Sut Urunleri,turkish_food,62,3.5,5.0,3.3,0.0
+9000216,Yogurt (yagsiz),Sut Urunleri,turkish_food,40,4.0,5.5,0.5,0.0
+9000217,Yogurt (meyveli),Sut Urunleri,turkish_food,85,3.0,14.5,1.5,0.2
+9000218,Ayran,Sut Urunleri,turkish_food,35,2.2,3.8,1.0,0.0
+9000219,Kefir (tam yagliı),Sut Urunleri,turkish_food,62,3.3,4.8,3.5,0.0
+9000220,"Sut (tam yagliı, %3.5)",Sut Urunleri,turkish_food,65,3.3,4.8,3.6,0.0
+9000221,"Sut (yarim yagliı, %1.5)",Sut Urunleri,turkish_food,46,3.3,5.0,1.5,0.0
+9000222,Sut (yagsiz),Sut Urunleri,turkish_food,34,3.4,5.0,0.1,0.0
+9000223,Kaymak,Sut Urunleri,turkish_food,338,2.5,3.0,35.0,0.0
+9000224,"Cay (sutsuz, sade)",Icecekler,turkish_food,1,0.0,0.2,0.0,0.0
+9000225,Turk kahvesi (sekersiz),Icecekler,turkish_food,5,0.3,0.5,0.2,0.0
+9000226,"Turk kahvesi (sekerli, 1 fink.)",Icecekler,turkish_food,40,0.3,9.5,0.2,0.0
+9000227,Salep,Icecekler,turkish_food,90,2.5,18.0,1.5,0.0
+9000228,Boza,Icecekler,turkish_food,70,0.8,15.5,0.5,0.8
+9000229,Limonata (ev yapimi),Icecekler,turkish_food,35,0.2,9.0,0.0,0.1
+9000230,Salgam suyu,Icecekler,turkish_food,18,0.8,3.5,0.1,0.5
+9000231,Nane limon (bitki cay),Icecekler,turkish_food,3,0.1,0.6,0.0,0.0
+9000232,Ihlamur (bitki cay),Icecekler,turkish_food,2,0.1,0.4,0.0,0.0
+9000233,Adacayi (bitki cay),Icecekler,turkish_food,2,0.1,0.4,0.0,0.0
+9000234,"Fistik (Antep, kavrulmus)",Kuruyemisler,turkish_food,568,20.5,27.0,46.5,8.5
+9000235,Ceviz (ic),Kuruyemisler,turkish_food,655,15.0,13.5,65.5,7.0
+9000236,Badem (kavrulmus),Kuruyemisler,turkish_food,589,21.5,22.0,51.5,12.5
+9000237,Findik (kavrulmus),Kuruyemisler,turkish_food,628,14.5,17.0,59.0,9.5
+9000238,"Leblebi (nohut, kavrulmus)",Kuruyemisler,turkish_food,355,18.0,54.0,5.0,7.5
+9000239,"Cekirdek (gunebakan, kavrulm.)",Kuruyemisler,turkish_food,582,20.5,20.0,50.0,8.5
+9000240,Kuru uzum,Kuruyemisler,turkish_food,300,2.5,78.0,0.5,3.5
+9000241,Kuru kayisi,Kuruyemisler,turkish_food,241,3.5,62.5,0.5,7.5
+9000242,Kuru incir,Kuruyemisler,turkish_food,249,3.5,63.5,1.0,9.5
+9000243,Kuru erik,Kuruyemisler,turkish_food,240,2.0,63.5,0.5,7.0
+9000244,Doner durum (tavuklu),Sokak Yemekleri,turkish_food,235,14.5,28.5,7.0,2.0
+9000245,Doner durum (etli),Sokak Yemekleri,turkish_food,265,15.0,29.0,9.5,2.0
+9000246,Kofte durum,Sokak Yemekleri,turkish_food,248,13.5,28.0,8.5,2.0
+9000247,Lahmacun durum,Sokak Yemekleri,turkish_food,220,10.5,29.5,7.0,2.5
+9000248,"Midye dolma (1 adet, ~30g)",Sokak Yemekleri,turkish_food,57,3.5,9.0,1.0,0.5
+9000249,"Kumpir (sade, 100g)",Sokak Yemekleri,turkish_food,120,3.0,22.5,2.5,2.5
+9000250,Islak burger,Sokak Yemekleri,turkish_food,275,11.5,30.5,12.5,1.5
+9000251,"Tost (kasar, domates)",Sokak Yemekleri,turkish_food,280,12.5,30.0,12.0,1.5
+9000252,"Kumpir (butun, 400g tah.)",Sokak Yemekleri,turkish_food,480,12.0,90.0,10.0,9.0
+9000253,"Tursu (karisik, salamura)",Fermante,turkish_food,15,0.8,2.5,0.2,1.5
+9000254,Lahana tursusu,Fermante,turkish_food,18,1.0,3.5,0.2,1.8
+9000255,Biber tursusu,Fermante,turkish_food,22,1.0,4.5,0.3,1.5
+9000256,Tarhana (kuru),Fermante,turkish_food,355,14.5,68.0,3.5,5.5
+9000257,Biberiye (baharatı),Baharat,turkish_food,331,4.9,64.0,15.0,43.0
+9000258,Nane (taze),Baharat,turkish_food,44,3.7,8.5,0.7,8.0
+9000259,Zeytinyagi,Yaglar,turkish_food,884,0.0,0.0,100.0,0.0
+9000260,Aycicek yagi,Yaglar,turkish_food,884,0.0,0.0,100.0,0.0
+9000261,Margarin,Yaglar,turkish_food,720,0.2,0.5,79.0,0.0
+9000262,Tereyagi (tuzsuz),Yaglar,turkish_food,735,0.5,0.5,82.0,0.0
+9000263,Misir yagi,Yaglar,turkish_food,884,0.0,0.0,100.0,0.0
+9000264,Hindistan cevizi yagi,Yaglar,turkish_food,862,0.0,0.0,95.0,0.0
+9000265,Bulgur (pismis),Tahillar,turkish_food,83,3.0,18.5,0.2,4.5
+9000266,"Pirinc (pismis, beyaz)",Tahillar,turkish_food,130,2.7,28.2,0.3,0.4
+9000267,Arpa (pismis),Tahillar,turkish_food,88,2.3,19.5,0.4,4.5
+9000268,Yulaf (pismis),Tahillar,turkish_food,68,2.4,12.0,1.4,1.7
+9000269,Kuru fasulye (pismis),Tahillar,turkish_food,110,7.5,17.0,0.8,6.5
+9000270,Kirmizi mercimek (pismis),Tahillar,turkish_food,105,7.0,16.5,0.5,5.5
+9000271,Yesil mercimek (pismis),Tahillar,turkish_food,116,9.0,20.0,0.4,7.5
+9000272,Nohut (pismis),Tahillar,turkish_food,120,7.0,18.5,1.5,6.0
+9000273,Barbunya (pismis),Tahillar,turkish_food,112,7.5,18.5,0.5,6.0
+9000274,Bakla (pismis),Tahillar,turkish_food,110,7.5,18.0,0.6,6.5
+9000275,Bezelye (pismis),Tahillar,turkish_food,84,5.4,15.0,0.4,5.5
